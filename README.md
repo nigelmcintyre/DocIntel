@@ -1,0 +1,1 @@
+Service that ingests a folder of documents (PDF, Word, text), extracts and indexes their metadata and content, lets you search and filter fast through an API and a web UI, and answer natural-language questions about the documents using an LLM retrieval layer
