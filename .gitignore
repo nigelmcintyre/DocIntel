@@ -1,0 +1,23 @@
+#environment
+venv/
+.venv/
+.env
+
+#Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+#IDE
+.vscode/
+
+#OS
+.DS_Store
+
+#Logs
+logs/
+
+#Misc
+CLAUDE.md
+docintel-roadmap.md
