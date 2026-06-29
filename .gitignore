@@ -9,6 +9,9 @@ __pycache__/
 *.pyo
 *.pyd
 
+# Test files
+data/
+
 #IDE
 .vscode/
 
@@ -21,3 +24,4 @@ logs/
 #Misc
 CLAUDE.md
 docintel-roadmap.md
+learning-log.md
